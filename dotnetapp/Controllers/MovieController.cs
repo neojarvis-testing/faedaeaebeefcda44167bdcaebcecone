@@ -12,4 +12,5 @@ namespace dotnetapp.Controllers
     // 3. Search movies by genre - SearchMovies(string genre)
     // 4. Add a movie - AddMovie(Movie movie)
     backup1
+    backup2
 }
